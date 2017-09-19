@@ -1,0 +1,26 @@
+{
+  "project": {
+    "ejected": true
+  },
+  "apps": [
+    {
+      "root": "./src/AngularModules",
+      "outDir": "./dist",
+      "assets": [
+        "a",
+        "s",
+        "s",
+        "e",
+        "t",
+        "s"
+      ],
+      "index": "index.html",
+      "main": "/app/main.ts",
+      "tsconfig": "tsconfig.json",
+      "testTsconfig": "tsconfig.json",
+      "prefix": "app",
+      "styles": [],
+      "scripts": []
+    }
+  ]
+}
